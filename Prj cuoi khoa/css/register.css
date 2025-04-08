@@ -1,0 +1,28 @@
+body {
+    background-color: #e6ebf2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.login-card {
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px;
+    width: 400px;
+}
+
+.form-control {
+    margin-bottom: 15px;
+}
+.login-link {
+    text-align: center;
+    margin-top: 15px;
+}
+.login-link a {
+    text-decoration: none;
+}
+h3 {
+    text-align: center;
+    margin-bottom: 20px;
+}

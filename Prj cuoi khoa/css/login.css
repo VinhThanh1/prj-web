@@ -1,0 +1,37 @@
+body {
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.login-card {
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px;
+    width: 400px;
+}
+.btn-primary {
+    background-color: rgba(79, 70, 229, 1);
+    color: white;
+}
+.register-link {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 14px;
+}
+.register-link a {
+    color: rgba(79, 70, 229, 1);
+}
+.login-header {
+    text-align: center;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login-header i {
+    margin-right: 10px;
+    margin-bottom: 7px;
+    font-size: 19px;
+}
